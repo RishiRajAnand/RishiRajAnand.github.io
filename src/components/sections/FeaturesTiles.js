@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'About Us',
+    paragraph: 'As country’s leading multispecialty health care facilities, AyushVeda Emergency Hospital has a well-earned reputation of being the pioneer of healthcare in India. Established in 2018, Apollo Hospitals has touched millions of lives, providing the best care and treatment for simple to most complicated diseases and conditions to the community. Combining the best available technology, medical expertise and equipment, we are redefining healthcare excellence to ensure all our patients receive comprehensive and integrated service with utmost compassion, support and care.'
   };
 
   return (
@@ -71,11 +71,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
-                    </h4>
+                    Most Advanced Healthcare Technology
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Apollo Hospitals has been the pioneer in bringing ground-breaking healthcare technologies to India.
+                  </p>
                 </div>
               </div>
             </div>
@@ -93,11 +93,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
-                    </h4>
+                    Best Clinical Outcomes
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Leveraging its vast medical expertise & technological advantage, Apollo Hospitals has consistently delivered best in class clinical outcomes.
+                  </p>
                 </div>
               </div>
             </div>
@@ -115,11 +115,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
-                    </h4>
+                    World class doctors and experts
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Largest network of the world’s finest and brightest medical experts who provide compassionate care using outstanding expertise and advanced technology.
+                  </p>
                 </div>
               </div>
             </div>
@@ -137,11 +137,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
-                    </h4>
+                    ICU Service
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    ICU Service With All Required Infrastructure
+                  </p>
                 </div>
               </div>
             </div>
@@ -159,11 +159,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
-                    </h4>
+                    Emergency services
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    24 Hours Emergency Service
+                  </p>
                 </div>
               </div>
             </div>
@@ -181,11 +181,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
-                    </h4>
+                    Surgical Services
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Surgical Services With All Required Infrastructure
+                  </p>
                 </div>
               </div>
             </div>
