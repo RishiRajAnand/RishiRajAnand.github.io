@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'About Us',
-    paragraph: 'As country’s leading multispecialty health care facilities, AyushVeda Emergency Hospital has a well-earned reputation of being the pioneer of healthcare in India. Established in 2018, Apollo Hospitals has touched millions of lives, providing the best care and treatment for simple to most complicated diseases and conditions to the community. Combining the best available technology, medical expertise and equipment, we are redefining healthcare excellence to ensure all our patients receive comprehensive and integrated service with utmost compassion, support and care.'
+    paragraph: 'As country’s leading multispecialty health care facilities, AyushVeda Emergency Hospital has a well-earned reputation of being the pioneer of healthcare in India. Established in 2018, AyushVeda  Hospitals has touched millions of lives, providing the best care and treatment for simple to most complicated diseases and conditions to the community. Combining the best available technology, medical expertise and equipment, we are redefining healthcare excellence to ensure all our patients receive comprehensive and integrated service with utmost compassion, support and care.'
   };
 
   return (
@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Most Advanced Healthcare Technology
                   </h4>
                   <p className="m-0 text-sm">
-                    Apollo Hospitals has been the pioneer in bringing ground-breaking healthcare technologies to India.
+                  AyushVeda Hospitals has been the pioneer in bringing ground-breaking healthcare technologies to India.
                   </p>
                 </div>
               </div>

@@ -143,4 +143,5 @@ We're an Italian developer/designer duo creating high-quality design/code resour
 
 If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
 
+## To deploy this website to github pages follow below link
 https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/

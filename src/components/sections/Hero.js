@@ -72,10 +72,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="primary" wideMobile href="#">
                    Explore Services
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
+                  <Button tag="a" color="dark" wideMobile href="#">
                     Book Appointment
                     </Button>
                 </ButtonGroup>
@@ -96,8 +96,8 @@ const Hero = ({
                 width={896}
                 height={504} />
             </a>
-          </div> */}
-          {/* <Modal
+          </div>
+          <Modal
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
